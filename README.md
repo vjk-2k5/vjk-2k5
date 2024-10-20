@@ -14,6 +14,8 @@ In addition to my technical pursuits, I have a strong interest in continuous lea
 
 ![vjk-2k5's Stats](https://github-readme-stats.vercel.app/api?username=vjk-2k5&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjk-2k5&layout=compact&theme=github_dark&count_private=true&include_all_commits=true)
+
 ![vjk-2k5's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vjk-2k5&theme=dark&hide_border=true)
 
 ## 📫 How to Reach Me
